@@ -1,0 +1,1 @@
+This project focuses on comprehensive analysis of a movies portfolio, covering every stage from data collection and preprocessing to generating meaningful insights. The analysis is aimed at helping stakeholders understand various factors that influence movie performance, genre popularity, and other key trends within the film industry. 
